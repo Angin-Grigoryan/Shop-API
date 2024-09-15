@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "women_clothing",
+      "name": "Women Clothing"
+    },
+    {
+      "id": "men_clothing",
+      "name": "Men Clothing"
+    },
+    {
+      "id": "kids",
+      "name": "Kids"
+    }
+  ]
+}
