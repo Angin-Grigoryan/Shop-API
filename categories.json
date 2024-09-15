@@ -2,15 +2,15 @@
   "categories": [
     {
       "id": "women_clothing",
-      "name": "Women Clothing"
+      "category": "Women Clothing"
     },
     {
       "id": "men_clothing",
-      "name": "Men Clothing"
+      "category": "Men Clothing"
     },
     {
       "id": "kids",
-      "name": "Kids"
+      "category": "Kids"
     }
   ]
 }
