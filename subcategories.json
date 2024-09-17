@@ -1,0 +1,96 @@
+{
+  "subcategories": [
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "dress",
+      "subcategory_name": "Dresses",
+      "category_img": "https://images.pexels.com/photos/11022097/pexels-photo-11022097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "tops",
+      "subcategory_name": "Tops",
+      "subcategories": [
+        {
+          "parent_category_id": "tops",
+          "subcategory_id": "blouses",
+          "subcategory_name": "Blouses",
+          "category_img": "https://images.unsplash.com/photo-1491575509428-5cc7d3e4076b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+        },
+        {
+          "parent_category_id": "tops",
+          "subcategory_id": "t_shirt",
+          "subcategory_name": "T-Shirts",
+          "category_img": "https://plus.unsplash.com/premium_photo-1690349404248-3ddd9be40eb1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fHdvbWVuJTIwJTIwdCUyMHNoaXJ0fGVufDB8fDB8fHww"
+
+        }
+      ]
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "bottoms",
+      "subcategory_name": "Bottoms",
+      "subcategories": [
+        {
+          "parent_category_id": "bottoms",
+          "subcategory_id": "skirts",
+          "subcategory_name": "Skirts",
+          "category_img": "https://plus.unsplash.com/premium_photo-1674129670339-554be9059cf4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHNraXJ0fGVufDB8fDB8fHww"
+        },
+        {
+          "parent_category_id": "bottoms",
+          "subcategory_id": "shorts",
+          "subcategory_name": "Shorts",
+          "category_img": "https://n.nordstrommedia.com/id/sr3/7d2e689c-dbdb-4790-887d-a58d2a66019b.jpeg?h=365&w=240&dpr=2"
+        },
+        {
+          "parent_category_id": "bottoms",
+          "subcategory_id": "jeans",
+          "subcategory_name": "Jeans",
+          "category_img": "https://plus.unsplash.com/premium_photo-1689371953420-b6981e43fa38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGplYW5zJTIwZ2lybHxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+          "parent_category_id": "bottoms",
+          "subcategory_id": "pants",
+          "subcategory_name": "Pants",
+          "category_img": "https://images.unsplash.com/photo-1570653321427-0e4d0c40bb84?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fHBhbnRzfGVufDB8fDB8fHww"
+
+        }
+      ]
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "sweathers_cardigans",
+      "subcategory_name": "Sweaters & cardigans",
+      "subcategories": [
+          {
+          "parent_category_id": "sweathers_cardigans",
+          "subcategory_id": "sweaters",
+          "subcategory_name": "Sweaters",
+          "category_img": "https://plus.unsplash.com/premium_photo-1695339146296-ab03c0e6ae50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA1fHxzd2VhdGVyc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+            {
+          "parent_category_id": "sweathers_cardigans",
+          "subcategory_id": "cardigans",
+          "subcategory_name": "Cardigans",
+          "category_img": "https://images.squarespace-cdn.com/content/v1/5e37154be72e4563b116eb15/1618608828232-MJF3F8IER7VFZ0SCLA7R/IMG_2308.JPG?format=1000w"
+        },
+            {
+          "parent_category_id": "sweathers_cardigans",
+          "subcategory_id": "knited_tops",
+          "subcategory_name": "Knitted Tops",
+          "category_img": "https://media.brunellocucinelli.com/image/upload/f_auto,q_auto/t_bc_sfcc_v_image/v1700642115/prod/seecommerce/original/241MDV796800-C059-F.jpeg?_i=AG"
+
+        },
+                    {
+          "parent_category_id": "sweathers_cardigans",
+          "subcategory_id": "sweather_dresses",
+          "subcategory_name": "Sweater Dresses",
+          "category_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUy5PxX0MLux53mMgbCYXcpBUQsxXyGKvtgYDTIBjlgTjACQNtpvGd1-7Wkjm9Pb1KQDo&usqp=CAU"
+        }
+      ]
+    }
+  ]
+}
