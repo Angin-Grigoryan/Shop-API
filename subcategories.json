@@ -68,32 +68,67 @@
       "subcategory_name": "Sweaters & cardigans",
       "subcategory_img": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_10_T82_5810_E0_X_EC_0",
       "subcategories": [
-          {
+        {
           "parent_category_id": "sweathers_cardigans",
           "subcategory_id": "sweaters",
           "subcategory_name": "Sweaters",
           "category_img": "https://plus.unsplash.com/premium_photo-1695339146296-ab03c0e6ae50?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzA1fHxzd2VhdGVyc3xlbnwwfHwwfHx8MA%3D%3D"
         },
-            {
+        {
           "parent_category_id": "sweathers_cardigans",
           "subcategory_id": "cardigans",
           "subcategory_name": "Cardigans",
           "category_img": "https://images.squarespace-cdn.com/content/v1/5e37154be72e4563b116eb15/1618608828232-MJF3F8IER7VFZ0SCLA7R/IMG_2308.JPG?format=1000w"
         },
-            {
+        {
           "parent_category_id": "sweathers_cardigans",
           "subcategory_id": "knited_tops",
           "subcategory_name": "Knitted Tops",
           "category_img": "https://media.brunellocucinelli.com/image/upload/f_auto,q_auto/t_bc_sfcc_v_image/v1700642115/prod/seecommerce/original/241MDV796800-C059-F.jpeg?_i=AG"
 
         },
-                    {
+        {
           "parent_category_id": "sweathers_cardigans",
           "subcategory_id": "sweather_dresses",
           "subcategory_name": "Sweater Dresses",
           "category_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUy5PxX0MLux53mMgbCYXcpBUQsxXyGKvtgYDTIBjlgTjACQNtpvGd1-7Wkjm9Pb1KQDo&usqp=CAU"
         }
       ]
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "jacket_coat",
+      "subcategory_name": "Jackets & coats",
+      "subcategory_img": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_01_T53_4410U_M0_X_EC_0",
+      "subcategories": []
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "suit",
+      "subcategory_name": "Suits",
+      "subcategory_img": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_09_T97_6629H_KC_X_EC_0",
+      "subcategories": []
+    },
+    {
+      "parent_category_id": "women_clothing",
+      "subcategory_id": "jumpsuit_bodysuit",
+      "subcategory_name": "Jumpsuits & BodySuits",
+      "subcategory_img":  "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_10_T83_5151D_Y0_X_EC_0",
+      "subcategories": [
+        {
+          "parent_category_id": "jumpsuit_bodysuit",
+          "subcategory_id": "bodysuit",
+          "subcategory_name": "BodySuits",
+          "subcategory_img": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_02_T32_5889_Z0_X_EC_0"
+        },
+        {
+          "parent_category_id": "jumpsuit_bodysuit",
+          "subcategory_id": "jumpsuit",
+          "subcategory_name": "Jumpsuits",
+          "subcategory_img": "https://assets.digitalcontent.marksandspencer.app/image/upload/w_384,q_80,f_auto/SD_10_T83_6952D_F0_X_EC_0"
+        }
+      ]
     }
+
   ]
 }
